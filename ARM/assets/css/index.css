@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Times New Roman;
+  }
+  body{
+       background: #e4e9f7;
+  }
+  .head h1{
+       text-align: center;
+       margin-top: 60px;
+       font-size: 6ch;
+       
+  }
+  .hea h2{
+       text-align: center;
+       margin-top: 35px;
+       font-size: 7ch;
+       
+  }
+  .car{
+       text-align: center;
+       zoom: 200%;
+  }
+  .btn a button{
+       padding: 7px 30px;
+       
+       margin-left: 500px;
+       font-size: 5ch;
+       color: white;
+       outline: none;
+       cursor: pointer;
+       font-weight: bold;
+       background: #695CFE;
+       border-radius: 20px;
+       border: none;
+       transition: .5s;
+  }
+  .btn a button:hover{
+       transform: scale(0.99); 
+      background: linear-gradient(-135deg, #0000A0, #0000A0);
+  }

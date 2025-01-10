@@ -1,0 +1,1 @@
+<script src="<?php echo URL; ?>/assets/plugin/jquery-3.6.0.min.js"></script>
